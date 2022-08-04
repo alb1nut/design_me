@@ -217,7 +217,8 @@ nav a {
 
 nav a:hover,
 a.active {
-    color: #53d769;
+    color: rgb(173, 216, 230);
+    /* color: rgb(173, 216, 230); */
 }
 
 /* Background color change on Hover */
@@ -582,7 +583,7 @@ a.navbar-brand span {
 a.login-button-2 {
     letter-spacing: 2px;
     font-size: 13px;
-    background: #fc3d39;
+    background: #000;
     padding: 12px 30px;
     display: inline-block;
     color: #fff;
@@ -671,7 +672,7 @@ section.about-bottom {
 .feature-grids span {
     font-size: 2em;
     margin: 0.5em 0;
-    color: #fc3d39;
+    color: #000;
 }
 
 .bottom-gd,
@@ -686,7 +687,7 @@ section.about-bottom {
 }
 
 .bottom-gd2-active {
-    background: #53d769;
+    background: rgb(173, 216, 230);
     transition: 2s all;
     -webkit-transition: 2s all;
     -moz-transition: 2s all;
@@ -742,7 +743,7 @@ h3.title-w3ls.two {
     -o-transition: all 0.25s ease;
     -webkit-transition: all 0.25s ease;
     transition: all 0.25s ease;
-    color: #fc3d39;
+    color: #000;
     padding: 0.6em 2em;
     text-transform: uppercase;
     font-size: 0.9em;
@@ -762,7 +763,7 @@ h3.title-w3ls.two {
 }
 
 .serve-gd-w3pvt span {
-    color: #53d769;
+    color: rgb(173, 216, 230);
 }
 
 /*--//about--*/
@@ -905,6 +906,7 @@ h4.progress-w3 {
 }
 
 .main_grid_contact {
+    /* margin-top: 100px; */
     width: 70%;
     position: absolute;
     bottom: -50%;
@@ -918,6 +920,7 @@ h4.progress-w3 {
     flex-basis: 60%;
     -webkit-flex-basis: 60%;
     padding: 3em 4em;
+    margin-top: 5em;
     background: #fff;
 }
 
@@ -953,7 +956,7 @@ h4.progress-w3 {
     outline: none;
     cursor: pointer;
     color: #fff;
-    background: #fc3d39;
+    background: #000;
     padding: 17px 15px;
     border: none;
     margin: 10px 0 0 auto;
@@ -1050,7 +1053,7 @@ textarea {
 
 .clients li span {
     font-size: 0.8em;
-    color: #fc3d39;
+    color: #000;
 }
 
 .clients li span:hover {
@@ -1109,7 +1112,7 @@ h3.w3layouts_title {
 }
 
 .footer-text button.btn1 {
-    color: #fc3d39;
+    color: #000;
     border: none;
     padding: 10px 0;
     outline: none;
