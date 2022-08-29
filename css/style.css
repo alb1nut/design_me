@@ -657,6 +657,10 @@ section.about-bottom {
     position: relative;
 }
 
+.feature-grids{
+    justify-content: space-between;
+}
+
 .feature-grids h3,
 .bottom-gd.fea h3 {
     color: #05c46b;
