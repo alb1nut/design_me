@@ -103,6 +103,11 @@ ol {
     -ms-transition: 0.5s all;
 }
 
+.logo-img{
+    height: 6rem;
+    align-self: center;
+}
+
 .top-right-info li.facebook {
     background: #3b5998;
 }
